@@ -58,9 +58,9 @@ const Footer = () => {
           </div>
           <div className="w-full sm:mt-5 lg:mt-0 lg:justify-center ">
             <div>
-              <h4 className="mb-4 font-dm text-base font-bold">
-                company@domain.com
-              </h4>
+              <h6 className="mb-4 font-dm text-base font-light">
+                email@admin.com
+              </h6>
               <p className="font-regular mt-[6px] font-dm text-sm text-[#6D6D6D]">
                 121 Dhaka, Bangladesh, Road no-6  House no-18951
               </p>
